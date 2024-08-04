@@ -44,7 +44,6 @@ npm run build
    ```
 
 2. 安装
-   
    打包后会在根目录生成一个 gis-tools-1.0.0.tgz 文件
    
    ```powershell
@@ -56,6 +55,8 @@ npm run build
 
 
 ## API
+
+CommonJS 不能用 pbf 相关API，因为所依赖的pbf库只提供ESM Module
 
 ### protobuf（pbf） 和 geojson 转换
 
