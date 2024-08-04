@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>e</name>
+  <Placemark>
+	<name>种植基地</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>107.098493041698,23.602626296427 107.099222350182,23.6014636363197 107.103098674727,23.6031526942664 107.103018750509,23.6033495207418 107.103263518425,23.6035234601719 107.102883878392,23.6042741434863 107.101749953558,23.6037248634342 107.100044230068,23.6031212626089 107.098493041698,23.602626296427</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>种植基地</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>107.101616532383,23.6018477307267 107.102036459025,23.6010872467201 107.102619129422,23.601321736152 107.103253527898,23.601623846002 107.103203575262,23.601715394304 107.103842969002,23.6021365156699 107.103378409488,23.6032305094199 107.102459280987,23.6028231236926 107.10250423836,23.6026079868388 107.102054664637,23.602228063614 107.102129593591,23.6020495450638 107.101616532383,23.6018477307267</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>种植基地</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>107.097306181582,23.6005628376787 107.097972057464,23.600254070914 107.098160588587,23.6004378607425 107.098276916301,23.6004231575657 107.099355956133,23.6010921504411 107.099135334606,23.6013163725643 107.097306181582,23.6005628376787</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
