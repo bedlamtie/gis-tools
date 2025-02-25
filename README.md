@@ -47,7 +47,7 @@ npm run build
    打包后会在根目录生成一个 gis-tools-1.0.0.tgz 文件
    
    ```powershell
-   npm run ./gis-tools-1.0.0.tgz
+   npm install ./gis-tools-1.0.0.tgz
    ```
 
         或者使用`npm link`、私有仓库等。
